@@ -1,0 +1,26 @@
+.match-card-container {
+  display: flex;
+  flex-direction: column;
+}
+.team-banner {
+  align-self: center;
+}
+.team-info-head {
+  padding: 30px;
+}
+.latest-match {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #1e293b;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  align-self: center;
+}
+.recent-matches {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}

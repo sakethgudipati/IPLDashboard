@@ -1,0 +1,9 @@
+.match-container {
+  background-color: #0f172a;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  margin: 20px;
+}
